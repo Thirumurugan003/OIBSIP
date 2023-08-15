@@ -1,9 +1,6 @@
-package intern;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
 class User {
     private String username;
     private String password;
