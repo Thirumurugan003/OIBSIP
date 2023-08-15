@@ -1,6 +1,4 @@
-package intern;
 import java.util.Scanner;
-
 public class NumberGuessingGame {
     public static void main(String[] args) {
         final int MAX_TRIES = 5;
